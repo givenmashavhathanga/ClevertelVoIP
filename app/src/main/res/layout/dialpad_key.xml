@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Reusable dialpad key — text is set programmatically in DiallerActivity -->
+<com.google.android.material.button.MaterialButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="80dp"
+    android:layout_height="72dp"
+    android:layout_margin="4dp"
+    android:textSize="22sp"
+    android:textColor="@color/white"
+    android:textStyle="bold"
+    app:backgroundTint="@color/surface_variant"
+    app:cornerRadius="36dp"
+    app:rippleColor="@color/primary_green_alpha"
+    app:strokeColor="@color/divider"
+    app:strokeWidth="1dp"/>
